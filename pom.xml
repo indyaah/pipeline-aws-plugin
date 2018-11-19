@@ -64,7 +64,7 @@
     <properties>
         <jenkins.version>2.60.3</jenkins.version>
         <java.level>8</java.level>
-        <powermock.version>1.6.5</powermock.version>
+        <powermock.version>1.7.4</powermock.version>
     </properties>
     <build>
     <plugins>
